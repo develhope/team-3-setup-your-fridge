@@ -1,7 +1,7 @@
-# Choose Your own beer
+# Setup your fridge
 A collection of beer where you can choose which one should be in your fridge
 
-We will follow [orange](https://www.figma.com/file/yGApBLVEfjfaK7E3NGpNCa/Esercizio?node-id=0%3A1) figma design.
+We will follow [green](https://www.figma.com/file/yGApBLVEfjfaK7E3NGpNCa/Esercizio?node-id=0%3A1) figma design.
 
 ### This app has 3 screens:
  - The main screen where a full list of beers will be displayed (with the favourites on top). We will decide if there will be a toggle to show/hide favourites. Each beer will be shown by a card displaying an image ( a default one will replace  the original if this one is not available), a title, a short description and an icon showing if is favourite or not)
