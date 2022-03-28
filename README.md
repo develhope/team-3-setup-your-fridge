@@ -1,4 +1,4 @@
-# Choose Your own beer
+# Setup your fridge
 A collection of beer where you can choose which one should be in your fridge
 
 We will follow [orange](https://www.figma.com/file/yGApBLVEfjfaK7E3NGpNCa/Esercizio?node-id=0%3A1) figma design.
