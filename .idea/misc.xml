@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/team-3-setup-your-fridge/app/src/main/res/drawable/custom_check_fav.xml" value="0.1945" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/team-3-setup-your-fridge/app/src/main/res/layout/beer_list_layout.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/team-3-setup-your-fridge/app/src/main/res/layout/fragment_home.xml" value="0.15534420289855072" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2916666666666667" />
       </map>
     </option>
