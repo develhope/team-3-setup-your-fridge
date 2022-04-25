@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/mikew/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/textview_hint.xml" value="0.15555555555555556" />
+        <entry key="..\:/android/team-3-setup-your-fridge/app/src/main/res/font/font.xml" value="0.1" />
+        <entry key="..\:/android/team-3-setup-your-fridge/app/src/main/res/layout/activity_main.xml" value="0.16494845360824742" />
+        <entry key="..\:/android/team-3-setup-your-fridge/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/android/team-3-setup-your-fridge/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2916666666666667" />
       </map>
     </option>
