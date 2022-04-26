@@ -5,6 +5,6 @@ data class Beer(
     val shortDescription: String,
     val longDescription: String,
     val format: String,
-    var preferred: Boolean = false,
+    val preferred: Boolean = false,
     val imageUrl: String
 )

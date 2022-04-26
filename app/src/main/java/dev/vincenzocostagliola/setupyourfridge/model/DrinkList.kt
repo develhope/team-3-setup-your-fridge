@@ -28,8 +28,7 @@ object DrinkList {
         imageUrl = "url.com/link"
     )
 
-
-    private val beerList: List<Beer> = listOf(beerOne, beerTwo, beerThree)
+    private val beerList: MutableList<Beer> = mutableListOf(beerOne, beerTwo, beerThree)
 
     fun getBeerList(): List<Beer> {
 
@@ -37,8 +36,9 @@ object DrinkList {
     }
 
     fun setPreferredBeer(beer: Beer, isPreferred: Boolean): Beer {
-
-        beer.preferred = isPreferred
-        return beer
+        val preferredBeer = beer.copy(preferred = isPreferred)
+        val index = beerList.indexOf(beer)
+        beerList[index] = preferredBeer
+        return preferredBeer
     }
 }
